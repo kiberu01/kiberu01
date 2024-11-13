@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiberu01
 - 👀 I’m interested in Android development 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning python and C#
 - 📫 How to reach me ellykiberu15@gmail.com
 - 💬 Ask me about Conception, Databases, Unified Modeling Language(UML) 
 
